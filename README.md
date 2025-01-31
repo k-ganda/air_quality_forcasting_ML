@@ -10,9 +10,13 @@ The primary goal of this challenge is to gain hands-on experience with real-worl
 
 air_quality_forecasting_ML/
 │── train/                    # Contains the training dataset
+
 │── test/                     # Contains the test dataset
+
 │── notebook/                 # Contains the Jupyter/Colab notebook for model development
+
 │── results/                  # All submission files
+
 │── README.md                 # Project documentation
 
 
