@@ -9,6 +9,7 @@ The primary goal of this challenge is to gain hands-on experience with real-worl
 ## Repository structure
 
 air_quality_forecasting_ML/
+
 │── train/                    # Contains the training dataset
 
 │── test/                     # Contains the test dataset
@@ -34,7 +35,7 @@ The Colab notebook, which contains the full workflow (preprocessing, model train
 
 You can download the notebook or open it in Google colab by clicking on the link on the notebook.
 
-3. **Make a Copy of the Notebook (Recommended)**
+**3.** **Make a Copy of the Notebook (Recommended)**
 
 If using Google Colab, before making any changes, go to File → Save a copy in Drive. This will allow you to edit the notebook while keeping the original version intact.
 
@@ -44,7 +45,7 @@ Upload the train and test datasets to the file browser in Colab.
 
 Alternatively, upload the datasets to your Google Drive and mount your drive to access them. See the second code cell in the notebook for instructions.
 
-5. **Run the code**
+**5. Run the code**
 
 Execute the notebook step by step to preprocess the data, train the model, and evaluate results.
 
