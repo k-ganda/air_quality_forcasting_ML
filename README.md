@@ -10,21 +10,18 @@ The primary goal of this challenge is to gain hands-on experience with real-worl
 
 air_quality_forecasting_ML/
 
-│── train/                    # Contains the training dataset
+│── train/ # Contains the training dataset
 
-│── test/                     # Contains the test dataset
+│── test/ # Contains the test dataset
 
-│── notebook/                 # Contains the Jupyter/Colab notebook for model development
+│── notebook/ # Contains the Jupyter/Colab notebook for model development
 
-│── results/                  # All submission files
-
-│── README.md                 # Project documentation
-
+│── README.md # Project documentation
 
 ## Instructions for reproducing results
 
 1. **Download the Datasets**
-  
+
 The training dataset is located train/ folder (air_quality_forecasting_ML/train/) while
 
 The test file is located test/ folder (air_quality_forecasting_ML/test/).
